@@ -1,4 +1,4 @@
-module github.com/freeekanayaka/kvsql
+module github.com/ktsakalozos/kvsql
 
 go 1.14
 
