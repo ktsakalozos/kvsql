@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/freeekanayaka/kvsql/server"
-	"github.com/freeekanayaka/kvsql/server/config"
+	"github.com/ktsakalozos/kvsql/server"
+	"github.com/ktsakalozos/kvsql/server/config"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"gopkg.in/yaml.v2"
